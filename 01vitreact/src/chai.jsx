@@ -1,7 +1,9 @@
 function Chai(){
+    const text = "devesh"
     return (
+        
         <h3>
-            chai is ready
+            chai is ready {text}
         </h3>
     )
 }
